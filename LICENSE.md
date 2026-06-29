@@ -1,4 +1,4 @@
-# 
+# Último Visual Studio Code flujo de trabajo para Mac OS | Automático Visual Studio Code flujo de trabajo para PC Windows. Con soporte multilenguaje y soporte GraphQL — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
